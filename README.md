@@ -1,5 +1,7 @@
 # About
 
+The download token has expired. So no more downloads. Will be updating soon.
+
 This is a music downloader application build on react
 
 <h3 align="center">The download is currently supported on desktop version only</h3>
