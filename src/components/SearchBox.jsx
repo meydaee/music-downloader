@@ -15,8 +15,8 @@ const SearchBox = () => {
     const options = {
       method: 'GET',
       headers: {
-        'X-RapidAPI-Key': '4871e6fb9dmsh1a2bf028fff40cap1d55aajsnf7bf7e777ae0',
-        'X-RapidAPI-Host': 'youtube-music1.p.rapidapi.com'
+        'X-RapidAPI-Key': '75f56047c1msh8672e838b984fb8p19d1bcjsn1d7885a21eba',
+        'X-RapidAPI-Host': 'youtube-v31.p.rapidapi.com'
       }
     };
 
